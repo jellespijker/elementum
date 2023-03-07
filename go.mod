@@ -51,7 +51,7 @@ require (
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	github.com/zeebo/bencode v1.0.0
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )

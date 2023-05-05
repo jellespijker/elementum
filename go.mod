@@ -20,15 +20,13 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/elazarl/goproxy v0.0.0-20210110162100-a92cc753f88e
 	github.com/fatih/color v1.11.0
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-ole/go-ole v1.2.5 // indirect
-	github.com/go-playground/validator/v10 v10.6.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/hectane/go-acl v0.0.0-20190604041725-da78bae5fc95
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/jmcvetta/napping v3.2.0+incompatible
 	github.com/jmcvetta/randutil v0.0.0-20150817122601-2bb1b664bcff // indirect
-	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/karrick/godirwalk v1.16.1
 	github.com/klauspost/compress v1.12.2
 	github.com/kolo/xmlrpc v0.0.0-20201022064351-38db28db192b
@@ -36,7 +34,6 @@ require (
 	github.com/likexian/gokit v0.25.0 // indirect
 	github.com/miekg/dns v1.1.42 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pbnjay/memory v0.0.0-20201129165224-b12e5d931931
@@ -46,12 +43,9 @@ require (
 	github.com/shirou/gopsutil v3.21.4+incompatible
 	github.com/spf13/cast v1.3.1
 	github.com/tinylib/msgp v1.1.5
-	github.com/ugorji/go v1.2.5 // indirect
 	github.com/valyala/bytebufferpool v1.0.0
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	github.com/zeebo/bencode v1.0.0
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
